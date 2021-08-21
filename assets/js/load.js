@@ -1,4 +1,4 @@
-
+//On page load animation
   window.onload = (event) => {
     var nav = document.querySelector('nav');
     nav.classList.add('hidden');
